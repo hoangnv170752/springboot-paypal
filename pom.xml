@@ -38,7 +38,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.paypal.sdk</groupId>
-			<artifactId>paypal-com</artifactId>
+			<artifactId>paypal-core</artifactId>
 			<version>1.7.2</version>
 		</dependency>
 		<dependency>

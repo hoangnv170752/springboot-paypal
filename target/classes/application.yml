@@ -1,9 +1,0 @@
-paypal:
-  client-id: AZj1hOz7DjomVcIBKZ3TOZY4lJdV2t22fm4FPXB4XMyzGoL4zFu-YlHkIJ0H_SckGITPbUQOdX3z3Fb3
-  client-secret: AZj1hOz7DjomVcIBKZ3TOZY4lJdV2t22fm4FPXB4XMyzGoL4zFu-YlHkIJ0H_SckGITPbUQOdX3z3Fb3
-  mode: sandbox
-server:
-  port: 8080
-spring:
-  thymeleaf:
-    cache: false
